@@ -9,17 +9,17 @@ using UnityEngine.UI;
 
 public static class MyPurchaseID
 {
-    public const string StarterBundles = "com.blockpuzzle.starterbundle";
-    public const string ExtraBundles = "com.blockpuzzle.extrabundle";
-    public const string CoinPack1 = "com.blockpuzzle.pack1";
-    public const string CoinPack2 = "com.blockpuzzle.pack2";
-    public const string CoinPack3 = "com.blockpuzzle.pack3";
-    public const string CoinPack4 = "com.blockpuzzle.pack4";
-    public const string CoinPack5 = "com.blockpuzzle.pack5";
-    public const string CoinPack6 = "com.blockpuzzle.pack6";
-    public const string CoinPack7 = "com.blockpuzzle.pack7";
-    public const string CoinPack8 = "com.blockpuzzle.pack8";
-    public const string CoinPack9 = "com.blockpuzzle.pack9";
+    public const string StarterBundles = "com.blockblast.starterbundle";
+    public const string ExtraBundles = "com.blockblast.extrabundle";
+    public const string CoinPack1 = "com.blockblast.pack1";
+    public const string CoinPack2 = "com.blockblast.pack2";
+    public const string CoinPack3 = "com.blockblast.pack3";
+    public const string CoinPack4 = "com.blockblast.pack4";
+    public const string CoinPack5 = "com.blockblast.pack5";
+    public const string CoinPack6 = "com.blockblast.pack6";
+    public const string CoinPack7 = "com.blockblast.pack7";
+    public const string CoinPack8 = "com.blockblast.pack8";
+    public const string CoinPack9 = "com.blockblast.pack9";
 }
 
 public class IAPProduct : MonoBehaviour

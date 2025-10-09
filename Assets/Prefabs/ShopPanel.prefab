@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.starterbundle
+  _purchaseID: com.blockblast.starterbundle
   _purchaseButton: {fileID: 1517620239846470556}
   _price: {fileID: 8297984133446633445}
   _discount: {fileID: 0}
@@ -730,7 +730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack4
+  _purchaseID: com.blockblast.pack4
   _purchaseButton: {fileID: 3379660519144172090}
   _price: {fileID: 5111618397756698187}
   _discount: {fileID: 0}
@@ -3787,7 +3787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack9
+  _purchaseID: com.blockblast.pack9
   _purchaseButton: {fileID: 2147704731004266881}
   _price: {fileID: 5868345304448568923}
   _discount: {fileID: 0}
@@ -4741,7 +4741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack2
+  _purchaseID: com.blockblast.pack2
   _purchaseButton: {fileID: 4781635491802468075}
   _price: {fileID: 3000069433187654044}
   _discount: {fileID: 0}
@@ -4838,7 +4838,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack1
+  _purchaseID: com.blockblast.pack1
   _purchaseButton: {fileID: 8722823498132468089}
   _price: {fileID: 2421468492800550935}
   _discount: {fileID: 0}
@@ -5520,7 +5520,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack5
+  _purchaseID: com.blockblast.pack5
   _purchaseButton: {fileID: 460615316372077182}
   _price: {fileID: 510704089774354209}
   _discount: {fileID: 0}
@@ -7973,7 +7973,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack7
+  _purchaseID: com.blockblast.pack7
   _purchaseButton: {fileID: 6244279673603313241}
   _price: {fileID: 8258378188391881837}
   _discount: {fileID: 0}
@@ -8178,7 +8178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.extrabundle
+  _purchaseID: com.blockblast.extrabundle
   _purchaseButton: {fileID: 5586591141931428912}
   _price: {fileID: 3472162330966884751}
   _discount: {fileID: 0}
@@ -8669,7 +8669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack8
+  _purchaseID: com.blockblast.pack8
   _purchaseButton: {fileID: 8045588328915893237}
   _price: {fileID: 3564401320313244698}
   _discount: {fileID: 0}
@@ -8975,7 +8975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack3
+  _purchaseID: com.blockblast.pack3
   _purchaseButton: {fileID: 7776480422634156959}
   _price: {fileID: 3302059504948565022}
   _discount: {fileID: 0}
@@ -9355,7 +9355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94679e88350c0fe49a3e6ecfd99b181f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _purchaseID: com.blockpuzzle.pack6
+  _purchaseID: com.blockblast.pack6
   _purchaseButton: {fileID: 4919127209534353062}
   _price: {fileID: 1800315705844650677}
   _discount: {fileID: 0}
